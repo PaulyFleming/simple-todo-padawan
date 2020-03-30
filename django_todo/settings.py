@@ -26,7 +26,7 @@ SECRET_KEY = '!b0vs#*reyezo9iown1tmm7+&u5ysn(*ez*!vdh^51yms3njzd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['simlpe-todo-padawan.herokuapp.com/']
 
 
 # Application definition
